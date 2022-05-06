@@ -4,9 +4,12 @@
 ## Contract address
 
 Ethereum: [0x22b48e1f20043d1db5f2a11cbf1d520a4f20b198](https://etherscan.io/token/0x22b48e1f20043d1db5f2a11cbf1d520a4f20b198)
+Polygon: [0x100432c8c862B42A2b93d784E7eBe5a61e4AcFAa](https://polygonscan.com/token/0x100432c8c862b42a2b93d784e7ebe5a61e4acfaa)
+Binance Smart Chain: [0xE17915332D853093af2A35b0f7AcB3deA8734F0D](https://bscscan.com/token/0xe17915332d853093af2a35b0f7acb3dea8734f0d)
 
 ## Exchange list
 
+- 🟢 [P2PB2B Exchange](https://p2pb2b.com/trade/XOT_USDT/)
 - 🪙 [MintMe Exchange](https://www.mintme.com/token/Okuru%20Token)
 - 🦄 [Uniswap v2](https://v2.info.uniswap.org/token/0x22b48e1f20043d1db5f2a11cbf1d520a4f20b198)
 - 🦄 [Uniswap v3](https://info.uniswap.org/#/tokens/0x22b48e1f20043d1db5f2a11cbf1d520a4f20b198)
