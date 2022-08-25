@@ -18,15 +18,13 @@
 ## Total limited supply
 
 `50.000.000` XOT
+- Team Tokens: 35% of Total limited supply (0xb8c57634958Ad927527285ABd65a90CaB1526868)
 
 ## Max Сirculation supply
 
 `150.000` XOT
 - 60.000 XOT in Сirculation ([view supply](https://nomics.com/assets/xot2-okuru-token))
 - 90.000 XOT on Hold (0x0865731c5040D9B858c8083713F0983Dc64444c2)
-- Team Tokens: 2.500.000 XOT / 5% of Total limited supply (0xb8c57634958Ad927527285ABd65a90CaB1526868)
-(47.867 XOT Minted and are also unlocked in Team Wallet; 2.452.133 have not been minted.)
-(New / Team Tokens in general must be locked for at least 1 year)
 
 ## Additional budget supply allocation
 
